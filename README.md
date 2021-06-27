@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm Jorge! and I fell in love into Front-End Development! ❤️
+
+And I can't wait to learn more and more about build new 😎 cool, 🙌 helpfull, 💄 beautifull, and 🎆 awesome stuff! 😄
 
 <!--
 **jorgolo/jorgolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
